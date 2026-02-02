@@ -1,0 +1,109 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+build/
+dist/
+*.egg-info/
+
+# Virtual Environments
+.venv/
+venv/
+ENV/
+venv*/
+
+# Editor / IDE
+.vscode/
+.idea/
+*.sublime-workspace
+
+# Jupyter
+.ipynb_checkpoints
+
+# Env files
+.env
+.env.*
+.env.local
+
+# macOS
+.DS_Store
+
+# Logs
+*.log
+
+# Dataset (large files)
+DATASET/
+
+# Python profiling
+.prof
+
+# Other
+*.sqlite3
+*.db
+
+# Virtual environments / installed packages
+# Ignore local virtualenvs and installed site-packages
+posedetection/
+lib/
+venv/
+venv*/
+.venv/
+ENV/
+__pycache__/
+
+# Caches, test & coverage
+.pytest_cache/
+.cache/
+.mypy_cache/
+pip-wheel-metadata/
+*.egg-info/
+*.egg
+
+# Coverage
+.coverage
+coverage.xml
+htmlcov/
+
+# Python package builds
+build/
+dist/
+
+# Jupyter
+.ipynb_checkpoints
+
+# Large binaries and model artifacts
+*.dylib
+*.so
+*.ckpt
+*.pt
+*.pth
+*.onnx
+*.tflite
+*.h5
+*.zip
+
+# Local config files
+.python-version
+.pip-log.txt
+.ropeproject/
+
+# Editors
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+pose_landmarker_heavy.task
+yoga_landmarks.csv
+yoga_pose_model.pkl
+ouptut.wav
+label_encoder.pkl
+.github
+DATASET
