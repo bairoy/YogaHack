@@ -28,6 +28,4 @@
 - Run demo scripts: `python demo4.py`, `python demo8.py`, `python speakingbot.py` etc.
 - Jupyter notebooks are available in the `notebooks/` folder (e.g., `mediapipe.ipynb`).
 
-## 📂 Dataset
 
-The `DATASET/` folder contains `TRAIN/` and `TEST/` with pose categories such as `downdog`, `goddess`, `plank`, `tree`, and `warrior2`.
